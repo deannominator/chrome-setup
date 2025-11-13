@@ -1,7 +1,5 @@
 # Modifying Google Chrome default settings
 
-# Chrome Default Setup — Bookmarks Automation
-
 This repository contains a **Chrome Bookmarks file** designed to streamline the setup of a fresh Google Chrome installation.
 By importing this file, you can quickly open all the key settings pages to adjust Chrome’s privacy, permissions, and search defaults without manually navigating through menus.
 
